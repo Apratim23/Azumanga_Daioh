@@ -44,7 +44,7 @@ Further Enhancements
 
 ## While this is a basic HTML and CSS implementation, you can consider these additions for a more interactive experience:
 
-**Navigation Bar**: Add a navigation bar using HTML elements like **<ul>** and **<li>** to link to different sections of the page.
+**Navigation Bar**: Add a navigation bar using HTML elements like ul and li tags to link to different sections of the page.
 **Character Profiles**: Create separate HTML pages for individual characters with details and images.
 **JavaScript Interactions**: Implement basic JavaScript to add animations or interactive elements.
 
