@@ -15,29 +15,29 @@ Customization
 
 **Feel free to customize the page by following these steps:**
 
-**Edit Text Content:**
+## **Edit Text Content:**
 Open index.html in a text editor.
 Modify the text within the HTML tags (e.g., headings, paragraphs) to reflect your desired content.
-**Update Images:**
+## **Update Images:**
 Replace the placeholder images in the images folder with your own Azumanga Daioh images.
 Ensure the filenames match the src attributes in the HTML code.
-**Style Adjustments:**
+## **Style Adjustments:**
 Open styles.css in a text editor.
-Modify the CSS properties (e.g., colors, fonts, backgrounds) to customize the page's appearance.
+Modify the CSS properties (e.g., colours, fonts, backgrounds) to customize the page's appearance.
 Basic HTML Structure
 
 **The index.html file provides the overall structure of the page, including:**
 
-The DOCTYPE declaration specifying the document type.
-The <html> element containing the entire webpage content.
-The <head> element containing meta information and links to the CSS stylesheet.
-The <body> element containing the visible content of the page, including headings, paragraphs, images, and navigation elements.
+## The DOCTYPE declaration specifies the document type.
+The <html> element contains the entire webpage content.
+The <head> element contains meta information and links to the CSS stylesheet.
+The <body> element contains the visible content of the page, including headings, paragraphs, images, and navigation elements.
 CSS Styling
 
-The styles.css file controls the visual presentation of the page elements. You can modify styles like:
+**The styles.css file controls the visual presentation of the page elements. You can modify styles like:**
 
 Font sizes and styles
-Colors (text, backgrounds, borders)
+Colours (text, backgrounds, borders)
 Margins and padding
 Image positioning and sizing
 Further Enhancements
