@@ -48,3 +48,5 @@ Further Enhancements
 **Character Profiles**: Create separate HTML pages for individual characters with details and images.
 **JavaScript Interactions**: Implement basic JavaScript to add animations or interactive elements.
 
+**Added Basic Functionality**
+
